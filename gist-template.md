@@ -11,12 +11,8 @@ This tutorial will discuss the following regex: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Character Classes](#character-classes)
-- [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
 - [Boundaries](#boundaries)
-- [Back-references](#back-references)
 - [Breakdown](#breakdown)
 
 ## Regex Components
