@@ -52,4 +52,6 @@ First the `/` indicates the start of the regex. Next the `^` says to start the s
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Caleb Korson and I am currently enrolled in Vanderbilt's Coding Bootcamp.
+[Github Profile](https://github.com/ckkorson)
+Email Address: [caleb.k.korson@gmail.com](mailto:caleb.k.korson@gmail.com)
