@@ -33,11 +33,13 @@ Quantifiers are used to indicate how many characters for the regex to match. The
 
 ### Character Classes
 Character classes are used to define what characters the user is searching for. There are two types of character class. First there are several predefined classes and second there user defined classes.
+
 Some common predefined classes are:
 - `.` => Match anything
 - `\d` => Any number 0 through 1
 - `\w` => Match any alphanumeric or underscore
 - `\s` => Match any white space
+
 User defined classes are written within square brackets and can be used when one of the predefined classes. For example if you wanted to search for a number between 1 and 5 you would write `[1-5]`. Or if you wanted to search for lowercase "a" through "z" or a number you would write `[a-x0-9]`.
 
 ### Grouping and Capturing
@@ -55,4 +57,5 @@ First the `/` indicates the start of the regex. Next the `^` says to start the s
 My name is Caleb Korson and I am currently enrolled in Vanderbilt's Coding Bootcamp.
 
 [Github Profile](https://github.com/ckkorson)
+
 Email Address: [caleb.k.korson@gmail.com](mailto:caleb.k.korson@gmail.com)
