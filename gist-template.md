@@ -53,5 +53,6 @@ First the `/` indicates the start of the regex. Next the `^` says to start the s
 ## Author
 
 My name is Caleb Korson and I am currently enrolled in Vanderbilt's Coding Bootcamp.
+
 [Github Profile](https://github.com/ckkorson)
 Email Address: [caleb.k.korson@gmail.com](mailto:caleb.k.korson@gmail.com)
