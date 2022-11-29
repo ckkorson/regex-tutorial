@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regular Expressions
 
 Regular expressions, or regex, are an advanced way to search strings of text. They use a sequence of characters define a search pattern. A regex can then be used within a javascript function to find exact matches to the criteria. In this tutorial I will show an example of a regular expression, explain all the different components, and then break down the function of the regular expression.
 
